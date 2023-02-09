@@ -1,1 +1,2 @@
 # Movie-Seat-Booking-App
+A movie seat booking app is a software application that allows users to purchase and reserve seats for movies at theaters. The app usually provides a seating map of the theater, and users can select their desired seats from the available options. The app also typically provides information about the movie, such as its showtimes and synopsis, and may offer additional features such as the ability to order concessions or parking.
